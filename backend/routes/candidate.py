@@ -7,7 +7,7 @@ import PyPDF2
 import requests
 
 router = APIRouter()
-
+# saluuuuuuuut
 
 @router.get("/jobs")
 def get_candidate_jobs(query: str = "", location: str = ""):
