@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+snowflake-connector-python
+python-dotenv
+pydantic
+sqlalchemy
+pydantic[email]
+bcrypt
+docx
+PyPDF2
+email-validator
+jwt
